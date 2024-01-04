@@ -11,7 +11,7 @@ repositories {
 
 dependencies {
     testImplementation("org.jetbrains.kotlin:kotlin-test")
-    implementation("com.google.code.gson:gson:2.10.1")
+    implementation(kotlin("stdlib"))
 }
 
 tasks.test {
@@ -19,4 +19,10 @@ tasks.test {
 }
 kotlin {
     jvmToolchain(17)
+}
+
+tasks.jar {
+    manifest {
+        attributes["Main-Class"] = "org.example.Main"
+    }
 }

@@ -1,9 +1,0 @@
-C:\work\glory\app\bin\x86\Debug\app.exe.config
-C:\work\glory\app\bin\x86\Debug\app.exe
-C:\work\glory\app\bin\x86\Debug\app.pdb
-C:\work\glory\app\obj\x86\Debug\app.csproj.AssemblyReference.cache
-C:\work\glory\app\obj\x86\Debug\app.Properties.Resources.resources
-C:\work\glory\app\obj\x86\Debug\app.csproj.GenerateResource.cache
-C:\work\glory\app\obj\x86\Debug\app.csproj.CoreCompileInputs.cache
-C:\work\glory\app\obj\x86\Debug\app.exe
-C:\work\glory\app\obj\x86\Debug\app.pdb
